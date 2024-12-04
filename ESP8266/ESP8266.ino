@@ -1,3 +1,5 @@
+// Tested with ESP32 Boards Package Version 2.0.17 
+
 #include "src/ESPSerialFlasher/src/ESPSerialFlasher.h" 
 #include <SPI.h>
 #include "SD.h"
